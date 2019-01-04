@@ -1,0 +1,59 @@
+/*
+* Molly Griffin
+* 1/4/18
+* Your Cause
+*/
+
+/* The universal selector */
+
+* { margin:0; 
+    padding:0;
+}
+
+/* Body attributes here */
+
+body { background-color:lightblue;
+    width: 90%;
+    margin: auto;}
+
+
+
+header {color:green; 
+font-family:sans-serif;
+border-bottom: 2px solid navy;
+}
+
+
+main { 
+    
+    }
+
+h2 {color:slategray;}
+p {font-size:110%;}
+
+#Turtle1 { width:200px; height:200px; float: left; margin:25px; border: 3px dashed navy;}
+
+#Turtle2 {width: 200px; height: 200px; margin:25px; float:left;border: 3px solid navy;}
+
+#Turtle3 {width:200px;height:200px;margin:25px;float:left;border: 3px solid navy;}
+
+#Turtle4 {width:200px;height:200px;margin:25px;float:left;border: 3px solid navy;}
+
+#Turtle5 {width:200px;height:200px;margin:25px;float:left;border: 3px solid navy;}
+
+#Rescue {width:200px;height:200px;margin:25px;float:left;border: 3px solid navy;}
+
+#Turtle6 {width:200px;height:200px;float:right;}
+
+
+
+footer {
+    padding: 15px 0px;
+    color:navy;
+    font-family: sans-serif;
+    font-size: 12px;
+    border-top: 3px solid navy;
+}
+
+h5 {float:right;}
+ul{margin-left: 50px;}
